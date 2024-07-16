@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*===== LAYOUT ======*/
+body {
+    background-color: #F5F4F0;
+    font-family: "Open Sans", sans-serif;
+}
+#home {
+    width: 1120px;
+    margin: 80px auto 137px;
+}
+img {
+    border-radius: 28px;
+    width: 100%;
+}
+hr {
+    border-color: #D9D9D9;
+}
+
+/*====== TYPOGRAPHY =======*/
+
+h1 {
+    font-size: 36px;
+}
+h2 {
+    font-size: 32px;
+}
+h3 {
+    font-size: 16px;
+    color: #E1624F;
+    text-transform: uppercase;
+}
+p {
+    font-size: 16px;
+}
+h1, h2, h3 {
+    font-weight: bold;
+}
+ol p {
+    font-weight: normal;
+}
+
+/*========= NEXT TRAVEL =======*/
+.next-travel p {
+    text-align: center;
+}
+
+
+/*========= LOVED HISTORY =========*/
+
+
+/*======== Templo Haedong Yonggungsa ========*/
+.yonggungsa p {
+    
+}
+
+
+ol {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+ul {
+    font-weight: bold;
+}
+ul li::marker {
+    color: #333333;
+}
